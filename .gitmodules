@@ -1,0 +1,3 @@
+[submodule "Sikker"]
+	path = Sikker
+	url = git@github.com:SikkerDapp/Sikker.git
